@@ -2,7 +2,7 @@
 
 这是一个帮你快速翻译取名的插件。
 
-<iframe height=800 width=600 src="./assets/example_1.gif">
+<img src="assets/example_1.gif" width="800" height="600" />
 
 ## Features
 
